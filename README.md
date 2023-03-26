@@ -2,10 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi&nbsp;there👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<p align="center" width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=posingReptile&theme=dark" width="43%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=posingReptile&layout=compact&theme=dark" width="40%"/>
-</p>
 <h2 align="center">About Me!</h2>
 <h3  align="center"> I'm a Software Engineer who started his journey as a web developer and fell in love with: </h3>
 <ul align="left">
@@ -31,6 +27,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="Mongodb" **alt="Mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>       
+</p>
+<p align="center" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=posingReptile&theme=dark" width="43%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=posingReptile&layout=compact&theme=dark" width="40%"/>
 </p>
 <p align="center">
 <img src="https://github.com/posingReptile/posingReptile/blob/output/github-contribution-grid-snake.svg" />
