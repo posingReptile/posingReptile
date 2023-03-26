@@ -36,5 +36,5 @@
 <img src="https://github.com/posingReptile/posingReptile/blob/output/github-contribution-grid-snake.svg" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?&section=footer&animation=fadeout&type=waving&color=gradient&height=150"/>
+  <img src="https://capsule-render.vercel.app/api?&section=footer&animation=fadeout&type=waving&color=gradient&height=100"/>
 </p>
