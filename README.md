@@ -2,6 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi&nbsp;there👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+<p align="center" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=posingReptile&theme=dark" width="43%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=posingReptile&layout=compact&theme=dark" width="40%"/>
+</p>
 <h2 align="center">About Me!</h2>
 <h3  align="center"> I'm a Software Engineer who started his journey as a web developer and fell in love with: </h3>
 <ul align="left">
@@ -10,10 +14,6 @@
   <li>🌐 Open Source</li>
   <li>🤯 Bold ideas</li>
 </ul>
-<p align="center" width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=posingReptile&theme=dark" width="43%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=posingReptile&layout=compact&theme=dark" width="40%"/>
-</p>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
