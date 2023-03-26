@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Git&nbsp;calm&nbsp;and&nbsp;Code-tinue&nbsp;to&nbsp;code&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi&nbsp;there👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <h2 align="center">About Me!</h2>
 <h3  align="center"> I'm a Software Engineer who started his journey as a web developer and fell in love with: </h3>
