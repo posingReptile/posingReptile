@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi there 👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p> -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hithere👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi there👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
