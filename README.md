@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi&nbsp;there👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>&nbsp;
@@ -24,8 +24,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>       
 </p>
 <p align="center" width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=posingReptile&theme=dark" width="43%" height="300"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=posingReptile&layout=compact&theme=dark" width="40%" height="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=posingReptile&theme=dark" width="43%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=posingReptile&layout=compact&theme=dark" width="40%"/>
 <img src="https://github.com/posingReptile/posingReptile/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
