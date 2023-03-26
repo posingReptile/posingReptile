@@ -24,8 +24,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>       
 </p>
 <p align="center" width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=posingReptile&theme=dark" width="43%" height="500"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=posingReptile&layout=compact&theme=dark" width="40%" height="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=posingReptile&theme=dark" width="43%" height="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=posingReptile&layout=compact&theme=dark" width="40%" height="300"/>
 <img src="https://github.com/posingReptile/posingReptile/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
